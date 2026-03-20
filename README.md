@@ -2,8 +2,7 @@
 
 - 🎓 Computer Science sophomore at Hunter College  
 - 💻 Programming in ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
-- 📚 Interested in software engineering and problem-solving  
-- 🚀 Using GitHub to share projects and track my growth  
+- 📚 Interested in software engineering
 
 ---
 
