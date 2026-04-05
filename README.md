@@ -7,6 +7,7 @@
 ---
 
 ## Projects  
+- [Beyond the Game](https://beyondthegame.vercel.app/) - A dialogue web game for athletes and teams. 
 - [FuelU](https://github.com/ArunSisarran/FuelU) – Web app for affordable, approachable recipes for college students 
 - [Connect 4](https://github.com/navanizard/Connect4) – CLI Connect4 game in C++
 - [CS135 Study Guide](https://github.com/navanizard/Study-Guide-CLI) - CLI tool for reviewing key CS135 concepts
