@@ -8,6 +8,7 @@
 
 ## Projects  
 - [Beyond the Game](https://beyondthegame.vercel.app/) - A dialogue web game for athletes and teams. 
+- [Examify](https://examify-mx30.onrender.com/) - A web app that teaches concepts and generates a practice exam to reinforce learning
 - [FuelU](https://fuel-u.vercel.app/) – Web app for affordable, approachable recipes for college students 
 - [Connect 4](https://github.com/navanizard/Connect4) – CLI Connect4 game in C++
 - [CS135 Study Guide](https://github.com/navanizard/Study-Guide-CLI) - CLI tool for reviewing key CS135 concepts
